@@ -45,5 +45,6 @@
     ],
     "testEnvironment": "jsdom",
     "testPathIgnorePatterns": ["/test_suites"]
-  }
+  },
+  "proxy": "http://localhost:6001"
 }
